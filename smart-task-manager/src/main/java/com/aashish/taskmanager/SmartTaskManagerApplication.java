@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SmartTaskManagerApplication {
 
 	public static void main(String[] args) {
+		//main
 		SpringApplication.run(SmartTaskManagerApplication.class, args);
+		
 	}
 
 }
